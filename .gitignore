@@ -1,0 +1,15 @@
+# Local settings
+config.env
+
+# Everything the scripts download, unpack or write: large, device-specific or personal
+downloads/
+staging/
+logs/
+device-info/
+checksums/
+backups/
+
+*.img
+*.zip
+*.apk
+*.part
